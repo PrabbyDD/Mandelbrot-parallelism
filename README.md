@@ -1,0 +1,2 @@
+# Mandelbrot-parallelism
+Mandelbrot + parallelism
